@@ -1587,6 +1587,24 @@
     },
     {
       "predicate": {
+        "custom_model_data": 2201075
+      },
+      "model": "exotic_garden:misc/ice_cube"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201076
+      },
+      "model": "exotic_garden:misc/mayo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201077
+      },
+      "model": "exotic_garden:misc/mustard"
+    },
+    {
+      "predicate": {
         "custom_model_data": 2201294
       },
       "model": "fluffymachines:watering_can"
