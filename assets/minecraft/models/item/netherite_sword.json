@@ -12,7 +12,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200644
+        "custom_model_data": 2201355
+      },
+      "model": "foxymachines:weapons/elucidator"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201356
       },
       "model": "minecraft:item/netherite_sword"
     }
