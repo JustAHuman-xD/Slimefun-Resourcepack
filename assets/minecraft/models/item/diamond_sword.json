@@ -18,7 +18,25 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200828
+        "custom_model_data": 2201424
+      },
+      "model": "bump:magical_weapons/emer_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201426
+      },
+      "model": "bump:magical_weapons/random_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201432
+      },
+      "model": "bump:magical_weapons/sky_devil_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201433
       },
       "model": "minecraft:item/diamond_sword"
     }

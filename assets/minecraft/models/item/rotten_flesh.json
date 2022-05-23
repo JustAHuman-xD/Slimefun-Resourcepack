@@ -12,7 +12,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200044
+        "custom_model_data": 2201405
+      },
+      "model": "bump:foods/latiao"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201406
       },
       "model": "minecraft:item/rotten_flesh"
     }

@@ -30,7 +30,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200825
+        "custom_model_data": 2201404
+      },
+      "model": "bump:foods/fangbianmian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201405
       },
       "model": "minecraft:item/string"
     }

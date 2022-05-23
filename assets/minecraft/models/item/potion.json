@@ -313,7 +313,19 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200872
+        "custom_model_data": 2201402
+      },
+      "model": "bump:foods/xuebi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201403
+      },
+      "model": "bump:foods/kele"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201404
       },
       "model": "minecraft:item/potion"
     }

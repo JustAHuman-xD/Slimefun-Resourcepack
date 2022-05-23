@@ -12,7 +12,19 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200091
+        "custom_model_data": 2201411
+      },
+      "model": "bump:magical_items/make"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201413
+      },
+      "model": "bump:magical_items/cpu"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201414
       },
       "model": "minecraft:item/diamond"
     }

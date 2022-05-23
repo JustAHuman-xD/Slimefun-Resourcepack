@@ -12,7 +12,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200280
+        "custom_model_data": 2201401
+      },
+      "model": "bump:armors/random_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201402
       },
       "model": "minecraft:item/diamond_helmet"
     }

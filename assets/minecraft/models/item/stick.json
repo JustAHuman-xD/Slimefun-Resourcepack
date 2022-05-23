@@ -54,7 +54,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200226
+        "custom_model_data": 2201417
+      },
+      "model": "bump:magical_items/peach_wood"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201418
       },
       "model": "minecraft:item/stick"
     }

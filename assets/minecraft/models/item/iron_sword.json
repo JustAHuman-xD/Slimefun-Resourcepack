@@ -144,7 +144,19 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2201260
+        "custom_model_data": 2201429
+      },
+      "model": "bump:magical_weapons/soul_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201431
+      },
+      "model": "bump:magical_weapons/devil_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201432
       },
       "model": "minecraft:item/iron_sword"
     }

@@ -78,7 +78,25 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200817
+        "custom_model_data": 2201414
+      },
+      "model": "bump:magical_items/soul_paper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201420
+      },
+      "model": "bump:tools/appraisal_paper_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201421
+      },
+      "model": "bump:tools/appraisal_paper_damage"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201422
       },
       "model": "minecraft:item/paper"
     }
