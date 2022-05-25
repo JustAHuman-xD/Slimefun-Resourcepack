@@ -243,14 +243,14 @@
       "predicate": {
         "custom_model_data": 2201422
       },
-      "model": "bump:magical_weapons/light_bow"
+      "model": "bump:magical_weapons/light_bow/light_bow"
     },
     {
       "predicate": {
         "pulling": 1,
         "custom_model_data": 2201422
       },
-      "model": "bump:magical_weapons/light_bow_0"
+      "model": "bump:magical_weapons/light_bow/light_bow_0"
     },
     {
       "predicate": {
@@ -258,7 +258,7 @@
         "pull": 0.65,
         "custom_model_data": 2201422
       },
-      "model": "bump:magical_weapons/light_bow_1"
+      "model": "bump:magical_weapons/light_bow/light_bow_1"
     },
     {
       "predicate": {
@@ -266,20 +266,20 @@
         "pull": 0.9,
         "custom_model_data": 2201422
       },
-      "model": "bump:magical_weapons/light_bow_2"
+      "model": "bump:magical_weapons/light_bow/light_bow_2"
     },
     {
       "predicate": {
         "custom_model_data": 2201423
       },
-      "model": "bump:magical_weapons/witherskull_row"
+      "model": "bump:magical_weapons/witherskull_row/witherskull_row"
     },
     {
       "predicate": {
         "pulling": 1,
         "custom_model_data": 2201423
       },
-      "model": "bump:magical_weapons/witherskull_row_0"
+      "model": "bump:magical_weapons/witherskull_row/witherskull_row_0"
     },
     {
       "predicate": {
@@ -287,7 +287,7 @@
         "pull": 0.65,
         "custom_model_data": 2201423
       },
-      "model": "bump:magical_weapons/witherskull_row_1"
+      "model": "bump:magical_weapons/witherskull_row/witherskull_row_1"
     },
     {
       "predicate": {
@@ -295,7 +295,7 @@
         "pull": 0.9,
         "custom_model_data": 2201423
       },
-      "model": "bump:magical_weapons/witherskull_row_2"
+      "model": "bump:magical_weapons/witherskull_row/witherskull_row_2"
     },
     {
       "predicate": {
