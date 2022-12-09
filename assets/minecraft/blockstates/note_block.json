@@ -1,7 +1,0 @@
-{
-  "variants": {
-    "instrument=harp": {
-      "model": "block/original/note_block"
-    }
-  }
-}
