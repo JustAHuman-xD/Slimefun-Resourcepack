@@ -1,6 +1,5 @@
 {
-"gui_light": "front",
-	"credit": "Made with Blockbench",
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [-16, 0, 8],
@@ -44,26 +43,5 @@
 			"translation": [0, 1, -1.25],
 			"scale": [2, 2, 2.84]
 		}
-	},
-	"groups": [
-		{
-			"name": "furniture_big_painting",
-			"children": [
-				{
-					"name": "furniture_big_painting",
-					"children": [
-						{
-							"name": "furniture_big_painting",
-							"children": [
-								{
-									"name": "20",
-									"children": [0]
-								}
-							]
-						}
-					]
-				}
-			]
-		}
-	]
+	}
 }

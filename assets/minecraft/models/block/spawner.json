@@ -2,6 +2,6 @@
     "parent": "block/cube_all",
     "textures": {
         "all": "block/spawner",
-		"particle": "item/base/blank"
+		"particle": "base/blank_mip"
     }
 }
