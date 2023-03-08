@@ -26,6 +26,10 @@
     },
     {
       "type": "single",
+      "resource": "supreme:components/supreme_core_of_block"
+    },
+    {
+      "type": "single",
       "resource": "slimefun:slimefun/resources/ingots/tin_ingot"
     },
     {
@@ -298,11 +302,19 @@
     },
     {
       "type": "single",
+      "resource": "supreme:components/supreme_carriage_machine"
+    },
+    {
+      "type": "single",
       "resource": "slimefun:slimefun/items/backpack_woven"
     },
     {
       "type": "single",
       "resource": "exotic_garden:misc/cornmeal"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:components/supreme_rustless_machine"
     },
     {
       "type": "single",
@@ -435,6 +447,10 @@
     {
       "type": "single",
       "resource": "infinityexpansion:tools/nature_ruin"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:components/supreme_cetrus_ventus"
     },
     {
       "type": "single",
@@ -762,6 +778,18 @@
     },
     {
       "type": "single",
+      "resource": "supreme:armor/chestplate/supreme_supreme_chestplate"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:components/supreme_inductor_machine"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:weapons/supreme_sword"
+    },
+    {
+      "type": "single",
       "resource": "exotic_garden:foods/chicken_curry"
     },
     {
@@ -798,6 +826,10 @@
     },
     {
       "type": "single",
+      "resource": "supreme:weapons/supreme_pickaxe"
+    },
+    {
+      "type": "single",
       "resource": "exotic_garden:plants/plant_copper"
     },
     {
@@ -823,6 +855,10 @@
     {
       "type": "single",
       "resource": "slimefun:slimefun/weapons/explosive_bow/explosive_bow"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:components/supreme_stainless_machine"
     },
     {
       "type": "single",
@@ -886,6 +922,10 @@
     },
     {
       "type": "single",
+      "resource": "supreme:components/supreme_attribute_magic"
+    },
+    {
+      "type": "single",
       "resource": "slimefun:slimefun/talisman1/farmer"
     },
     {
@@ -903,6 +943,10 @@
     {
       "type": "single",
       "resource": "bump:armors/random_helmet"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:components/supreme_supreme"
     },
     {
       "type": "single",
@@ -951,6 +995,10 @@
     {
       "type": "single",
       "resource": "extra_gear:armor/silver/silver_boots"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:weapons/supreme_shovel"
     },
     {
       "type": "single",
@@ -1226,6 +1274,10 @@
     },
     {
       "type": "single",
+      "resource": "supreme:components/supreme_cetrus_aqua"
+    },
+    {
+      "type": "single",
       "resource": "exotic_garden:plants/lapis_essence"
     },
     {
@@ -1290,6 +1342,10 @@
     },
     {
       "type": "single",
+      "resource": "supreme:components/supreme_core_of_color"
+    },
+    {
+      "type": "single",
       "resource": "slimefun:slimefun/technical_gadgets/steel_jetpack"
     },
     {
@@ -1315,6 +1371,10 @@
     {
       "type": "single",
       "resource": "slimefun:slimefun/energy/big_energy_capacitor"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:components/supreme_inductive_machine"
     },
     {
       "type": "single",
@@ -1395,6 +1455,10 @@
     {
       "type": "single",
       "resource": "slimefun:slimefun/basic_machines/enhanced_furnace_2"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:components/supreme_cetrus_lumium"
     },
     {
       "type": "single",
@@ -1551,6 +1615,10 @@
     {
       "type": "single",
       "resource": "slimefun:slimefun/energy/electric_ore_grinder3"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:components/supreme_blend_machine"
     },
     {
       "type": "single",
@@ -1714,6 +1782,10 @@
     },
     {
       "type": "single",
+      "resource": "supreme:components/supreme_petrifier_machine"
+    },
+    {
+      "type": "single",
       "resource": "slimefun:slimefun/basic_machines/enchanced_crafting_table"
     },
     {
@@ -1755,6 +1827,10 @@
     {
       "type": "single",
       "resource": "slimefun:slimefun/miscellaneous/organic_fertilizer/carrots"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:components/supreme_core_of_nature"
     },
     {
       "type": "single",
@@ -2046,6 +2122,10 @@
     },
     {
       "type": "single",
+      "resource": "supreme:weapons/supreme_hoe"
+    },
+    {
+      "type": "single",
       "resource": "slimefun:slimefun/energy/lava_generator"
     },
     {
@@ -2058,6 +2138,10 @@
     },
     {
       "type": "single",
+      "resource": "supreme:armor/leggings/supreme_supreme_leggings"
+    },
+    {
+      "type": "single",
       "resource": "infinityexpansion:materials/materials2/netherite_singularity"
     },
     {
@@ -2067,6 +2151,10 @@
     {
       "type": "single",
       "resource": "slimefun:slimefun/miscellaneous/hook"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:components/supreme_core_of_life"
     },
     {
       "type": "single",
@@ -2422,6 +2510,10 @@
     },
     {
       "type": "single",
+      "resource": "supreme:armor/helmet/supreme_supreme_helmet"
+    },
+    {
+      "type": "single",
       "resource": "infinityexpansion:materials/ender_essence"
     },
     {
@@ -2467,6 +2559,10 @@
     {
       "type": "single",
       "resource": "exotic_garden:foods/pumpkin_bread"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:armor/boots/supreme_supreme_boots"
     },
     {
       "type": "single",
@@ -2754,6 +2850,10 @@
     },
     {
       "type": "single",
+      "resource": "supreme:components/supreme_attribute_impetus"
+    },
+    {
+      "type": "single",
       "resource": "bump:magical_weapons/guard_sword"
     },
     {
@@ -2791,6 +2891,10 @@
     {
       "type": "single",
       "resource": "exotic_garden:foods/blackberry_cobbler"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:components/supreme_core_of_death"
     },
     {
       "type": "single",
@@ -2855,6 +2959,10 @@
     {
       "type": "single",
       "resource": "slimefun:slimefun/food/sweet_berry_juice"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:components/supreme_conveyance_machine"
     },
     {
       "type": "single",
@@ -3114,6 +3222,10 @@
     },
     {
       "type": "single",
+      "resource": "supreme:components/supreme_cetrus_lux"
+    },
+    {
+      "type": "single",
       "resource": "slimefun:slimefun/basic_machines/grind_stone"
     },
     {
@@ -3139,6 +3251,14 @@
     {
       "type": "single",
       "resource": "infinityexpansion:materials/materials2/quartz_singularity"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:components/supreme_crystallizer_machine"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:components/supreme_supreme_nugget"
     },
     {
       "type": "single",
@@ -3183,6 +3303,10 @@
     {
       "type": "single",
       "resource": "slimefun:slimefun/items/restored_backpack"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:components/supreme_core_of_alloy"
     },
     {
       "type": "single",
@@ -3330,6 +3454,10 @@
     },
     {
       "type": "single",
+      "resource": "supreme:components/supreme_cetrus_ignis"
+    },
+    {
+      "type": "single",
       "resource": "infinityexpansion:materials/materials2/diamond_singularity"
     },
     {
@@ -3347,6 +3475,10 @@
     {
       "type": "single",
       "resource": "slimefun:slimefun/androids/android3/woodcutter"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:weapons/supreme_axe"
     },
     {
       "type": "single",
@@ -3439,6 +3571,10 @@
     {
       "type": "single",
       "resource": "slimefun:slimefun/magical_items/lava_crystal"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:components/supreme_attribute_bomb"
     },
     {
       "type": "single",
@@ -3667,6 +3803,10 @@
     {
       "type": "single",
       "resource": "slimefun:slimefun/miscellaneous/organic_fertilizer/dried_kelp"
+    },
+    {
+      "type": "single",
+      "resource": "supreme:components/supreme_attribute_fortune"
     },
     {
       "type": "single",

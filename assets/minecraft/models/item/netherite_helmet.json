@@ -12,7 +12,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200646
+        "custom_model_data": 2201945
+      },
+      "model": "supreme:armor/helmet/supreme_supreme_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201946
       },
       "model": "item/netherite_helmet"
     }

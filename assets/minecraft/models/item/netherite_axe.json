@@ -12,7 +12,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200651
+        "custom_model_data": 2201915
+      },
+      "model": "supreme:weapons/supreme_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201916
       },
       "model": "item/netherite_axe"
     }

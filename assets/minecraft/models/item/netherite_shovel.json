@@ -12,7 +12,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200652
+        "custom_model_data": 2201933
+      },
+      "model": "supreme:weapons/supreme_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201934
       },
       "model": "item/netherite_shovel"
     }

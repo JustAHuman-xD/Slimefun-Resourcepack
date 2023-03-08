@@ -1623,7 +1623,109 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2201295
+        "custom_model_data": 2201550
+      },
+      "model": "supreme:components/supreme_supreme_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201551
+      },
+      "model": "supreme:components/supreme_supreme"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201561
+      },
+      "model": "supreme:components/supreme_core_of_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201562
+      },
+      "model": "supreme:components/supreme_core_of_death"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201563
+      },
+      "model": "supreme:components/supreme_core_of_life"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201564
+      },
+      "model": "supreme:components/supreme_core_of_color"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201565
+      },
+      "model": "supreme:components/supreme_core_of_nature"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201566
+      },
+      "model": "supreme:components/supreme_core_of_alloy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201567
+      },
+      "model": "supreme:components/supreme_cetrus_lumium"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201568
+      },
+      "model": "supreme:components/supreme_cetrus_lux"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201569
+      },
+      "model": "supreme:components/supreme_cetrus_ventus"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201570
+      },
+      "model": "supreme:components/supreme_cetrus_aqua"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201571
+      },
+      "model": "supreme:components/supreme_cetrus_ignis"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201572
+      },
+      "model": "supreme:components/supreme_attribute_magic"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201573
+      },
+      "model": "supreme:components/supreme_attribute_bomb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201574
+      },
+      "model": "supreme:components/supreme_attribute_fortune"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201575
+      },
+      "model": "supreme:components/supreme_attribute_impetus"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201576
       },
       "model": "item/player_head"
     }

@@ -12,7 +12,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200648
+        "custom_model_data": 2201963
+      },
+      "model": "supreme:armor/leggings/supreme_supreme_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201964
       },
       "model": "item/netherite_leggings"
     }

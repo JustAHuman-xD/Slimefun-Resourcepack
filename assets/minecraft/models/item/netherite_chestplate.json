@@ -12,7 +12,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200647
+        "custom_model_data": 2201954
+      },
+      "model": "supreme:armor/chestplate/supreme_supreme_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201955
       },
       "model": "item/netherite_chestplate"
     }

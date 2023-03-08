@@ -12,7 +12,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200649
+        "custom_model_data": 2201972
+      },
+      "model": "supreme:armor/boots/supreme_supreme_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201973
       },
       "model": "item/netherite_boots"
     }

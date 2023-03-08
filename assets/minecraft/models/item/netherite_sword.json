@@ -18,7 +18,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2201356
+        "custom_model_data": 2201900
+      },
+      "model": "supreme:weapons/supreme_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201901
       },
       "model": "item/netherite_sword"
     }
