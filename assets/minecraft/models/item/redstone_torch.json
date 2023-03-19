@@ -12,7 +12,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200393
+        "custom_model_data": 2202014
+      },
+      "model": "slimefunwarfare:general/radio"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202015
       },
       "model": "item/redstone_torch"
     }

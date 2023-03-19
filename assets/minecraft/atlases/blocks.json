@@ -26,6 +26,10 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:general/terfenol_d"
+    },
+    {
+      "type": "single",
       "resource": "supreme:components/supreme_core_of_block"
     },
     {
@@ -210,6 +214,10 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:resources/segganesson_meteor"
+    },
+    {
+      "type": "single",
       "resource": "infinityexpansion:materials/magsteel"
     },
     {
@@ -274,6 +282,10 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:resources/gadolinium_ingot"
+    },
+    {
+      "type": "single",
       "resource": "slimefun:slimefun/magical_items/reinforced_spawner"
     },
     {
@@ -334,7 +346,15 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:explosives/pyro_powder"
+    },
+    {
+      "type": "single",
       "resource": "exotic_garden:plants/plant_silver"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:resources/boron"
     },
     {
       "type": "single",
@@ -510,6 +530,10 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:resources/borax"
+    },
+    {
+      "type": "single",
       "resource": "extra_gear:armor/tin/tin_leggings"
     },
     {
@@ -535,6 +559,10 @@
     {
       "type": "single",
       "resource": "slimefun:slimefun/gps/gps_transmitter_energized"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:general/ndfeb_alloy"
     },
     {
       "type": "single",
@@ -575,6 +603,10 @@
     {
       "type": "single",
       "resource": "slimefun:slimefun/resources/gold_ingots/gold_ingot_6"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:resources/terbium_ingot"
     },
     {
       "type": "single",
@@ -694,6 +726,10 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:melee_weapons/battle_axe"
+    },
+    {
+      "type": "single",
       "resource": "slimefun:slimefun/magical_items/rune_villagers"
     },
     {
@@ -738,6 +774,14 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:explosives/thioacetone"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:general/radio"
+    },
+    {
+      "type": "single",
       "resource": "exotic_garden:foods/pavlova"
     },
     {
@@ -758,11 +802,19 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:resources/osmium_ingot"
+    },
+    {
+      "type": "single",
       "resource": "exotic_garden:misc/crook"
     },
     {
       "type": "single",
       "resource": "slimefun:slimefun/armor/gilded_iron_armor/leggings"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:general/terfenol_d_block"
     },
     {
       "type": "single",
@@ -886,6 +938,10 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:resources/ytterbium_ingot"
+    },
+    {
+      "type": "single",
       "resource": "slimefun:slimefun/magical_gadgets/elytra/infused_elytra"
     },
     {
@@ -998,6 +1054,10 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:general/dummy"
+    },
+    {
+      "type": "single",
       "resource": "supreme:weapons/supreme_shovel"
     },
     {
@@ -1062,6 +1122,10 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:explosives/nitrogen_triiodide_grenade"
+    },
+    {
+      "type": "single",
       "resource": "slimefun:slimefun/talisman2/firefighter"
     },
     {
@@ -1083,6 +1147,10 @@
     {
       "type": "single",
       "resource": "bump:magical_weapons/soul_sword"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:explosives/osmium_dust_grenade"
     },
     {
       "type": "single",
@@ -1246,6 +1314,10 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:resources/segganesson"
+    },
+    {
+      "type": "single",
       "resource": "exotic_garden:foods/grilled_sandwich"
     },
     {
@@ -1311,6 +1383,10 @@
     {
       "type": "single",
       "resource": "exotic_garden:foods/hot_dog"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:explosives/thioacetone_grenade"
     },
     {
       "type": "single",
@@ -1550,6 +1626,10 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:resources/osmium_meteor"
+    },
+    {
+      "type": "single",
       "resource": "slimefun:slimefun/basic_machines/enhanced_furnace_7"
     },
     {
@@ -1675,6 +1755,10 @@
     {
       "type": "single",
       "resource": "extra_gear:armor/aluminum/aluminum_helmet"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:explosives/arsenic"
     },
     {
       "type": "single",
@@ -1866,6 +1950,10 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:general/fiber_optic_cable"
+    },
+    {
+      "type": "single",
       "resource": "slimefun:slimefun/resources/radioactive_materials/blistering_ingot_33"
     },
     {
@@ -1895,6 +1983,10 @@
     {
       "type": "single",
       "resource": "exotic_garden:foods/cranberry_pie"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:resources/unpatentablium"
     },
     {
       "type": "single",
@@ -1970,6 +2062,14 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:explosives/nitrogen_triiodide"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:resources/lanthanum_ingot"
+    },
+    {
+      "type": "single",
       "resource": "slimefun:slimefun/technical_components/heating_coil"
     },
     {
@@ -1987,6 +2087,10 @@
     {
       "type": "single",
       "resource": "bump:magical_weapons/peach_sword"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:general/osmium_superalloy"
     },
     {
       "type": "single",
@@ -2031,6 +2135,10 @@
     {
       "type": "single",
       "resource": "foxymachines:weapons/elucidator"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:resources/holmium_ingot"
     },
     {
       "type": "single",
@@ -2214,6 +2322,10 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:explosives/nuclear_bomb"
+    },
+    {
+      "type": "single",
       "resource": "slimefun:slimefun/magical_armor/slime_armor_steel/leggings"
     },
     {
@@ -2378,6 +2490,10 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:resources/reinforced_slimesteel_ingot"
+    },
+    {
+      "type": "single",
       "resource": "slimefun:slimefun/resources/valuables/carbon_chunk"
     },
     {
@@ -2399,6 +2515,14 @@
     {
       "type": "single",
       "resource": "exotic_garden:fruits/corn_plant"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:explosives/grenade"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:resources/osmium_dust"
     },
     {
       "type": "single",
@@ -2798,6 +2922,10 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:resources/monazite"
+    },
+    {
+      "type": "single",
       "resource": "exotic_garden:foods/blackberry_jelly_sandwich"
     },
     {
@@ -2834,6 +2962,10 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:melee_weapons/osmium_sword"
+    },
+    {
+      "type": "single",
       "resource": "infinityexpansion:materials/void_dust"
     },
     {
@@ -2855,6 +2987,10 @@
     {
       "type": "single",
       "resource": "bump:magical_weapons/guard_sword"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:resources/slimesteel_ingot"
     },
     {
       "type": "single",
@@ -3043,6 +3179,10 @@
     {
       "type": "single",
       "resource": "slimefun:slimefun/magical_gadgets/magic_ender_eye"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:general/ndfeb_alloy_block"
     },
     {
       "type": "single",
@@ -3314,6 +3454,10 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:explosives/pyro_powder_grenade"
+    },
+    {
+      "type": "single",
       "resource": "exotic_garden:foods/bacon_sandwich"
     },
     {
@@ -3506,6 +3650,10 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:general/fiber_optic_glass"
+    },
+    {
+      "type": "single",
       "resource": "exotic_garden:fruits/cabbage_plant"
     },
     {
@@ -3535,6 +3683,14 @@
     {
       "type": "single",
       "resource": "exotic_garden:drinks/cherry_iced_tea"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:resources/erbium_ingot"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:resources/neodymium_ingot"
     },
     {
       "type": "single",
@@ -3710,6 +3866,10 @@
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:melee_weapons/energy_blade"
+    },
+    {
+      "type": "single",
       "resource": "slimefun:slimefun/talisman2/anvil"
     },
     {
@@ -3727,6 +3887,10 @@
     {
       "type": "single",
       "resource": "slimefun:slimefun/gps/gps_activation_device_personal"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:explosives/arsenic_grenade"
     },
     {
       "type": "single",
@@ -3791,6 +3955,10 @@
     {
       "type": "single",
       "resource": "slimefun:slimefun/resources/dusts/magnesium_dust"
+    },
+    {
+      "type": "single",
+      "resource": "slimefunwarfare:resources/dysprosium_ingot"
     },
     {
       "type": "single",

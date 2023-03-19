@@ -12,7 +12,25 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200620
+        "custom_model_data": 2202067
+      },
+      "model": "slimefunwarfare:resources/neodymium_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202070
+      },
+      "model": "slimefunwarfare:resources/dysprosium_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202076
+      },
+      "model": "slimefunwarfare:general/ndfeb_alloy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202077
       },
       "model": "item/netherite_ingot"
     }

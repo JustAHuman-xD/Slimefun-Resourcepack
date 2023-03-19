@@ -12,7 +12,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200271
+        "custom_model_data": 2202015
+      },
+      "model": "slimefunwarfare:melee_weapons/battle_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202016
       },
       "model": "item/iron_axe"
     }

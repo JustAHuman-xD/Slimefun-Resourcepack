@@ -156,7 +156,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2201432
+        "custom_model_data": 2202016
+      },
+      "model": "slimefunwarfare:melee_weapons/osmium_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202017
       },
       "model": "item/iron_sword"
     }

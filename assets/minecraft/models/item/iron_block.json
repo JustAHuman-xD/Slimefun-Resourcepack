@@ -51,7 +51,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200643
+        "custom_model_data": 2202075
+      },
+      "model": "slimefunwarfare:general/terfenol_d_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202076
       },
       "model": "item/iron_block"
     }

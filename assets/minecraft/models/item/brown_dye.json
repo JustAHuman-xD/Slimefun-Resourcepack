@@ -12,7 +12,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200804
+        "custom_model_data": 2202047
+      },
+      "model": "slimefunwarfare:explosives/thioacetone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202048
       },
       "model": "item/brown_dye"
     }

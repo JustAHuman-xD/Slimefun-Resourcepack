@@ -36,7 +36,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200613
+        "custom_model_data": 2202071
+      },
+      "model": "slimefunwarfare:resources/holmium_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202072
       },
       "model": "item/brick"
     }

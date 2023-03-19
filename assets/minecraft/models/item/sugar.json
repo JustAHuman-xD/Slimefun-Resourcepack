@@ -78,7 +78,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2201417
+        "custom_model_data": 2202061
+      },
+      "model": "slimefunwarfare:resources/osmium_dust"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202062
       },
       "model": "item/sugar"
     }

@@ -36,7 +36,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2201405
+        "custom_model_data": 2202011
+      },
+      "model": "slimefunwarfare:general/fiber_optic_cable"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202012
       },
       "model": "item/string"
     }

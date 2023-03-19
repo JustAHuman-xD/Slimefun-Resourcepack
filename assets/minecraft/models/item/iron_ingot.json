@@ -138,7 +138,67 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200822
+        "custom_model_data": 2202003
+      },
+      "model": "slimefunwarfare:resources/slimesteel_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202004
+      },
+      "model": "slimefunwarfare:resources/reinforced_slimesteel_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202017
+      },
+      "model": "slimefunwarfare:general/osmium_superalloy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202062
+      },
+      "model": "slimefunwarfare:resources/osmium_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202066
+      },
+      "model": "slimefunwarfare:resources/lanthanum_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202068
+      },
+      "model": "slimefunwarfare:resources/gadolinium_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202069
+      },
+      "model": "slimefunwarfare:resources/terbium_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202072
+      },
+      "model": "slimefunwarfare:resources/erbium_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202073
+      },
+      "model": "slimefunwarfare:resources/ytterbium_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202074
+      },
+      "model": "slimefunwarfare:general/terfenol_d"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202075
       },
       "model": "item/iron_ingot"
     }

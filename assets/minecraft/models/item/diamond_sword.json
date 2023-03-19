@@ -36,7 +36,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2201433
+        "custom_model_data": 2202019
+      },
+      "model": "slimefunwarfare:melee_weapons/energy_blade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202020
       },
       "model": "item/diamond_sword"
     }

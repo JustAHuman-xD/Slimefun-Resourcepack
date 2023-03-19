@@ -18,7 +18,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200826
+        "custom_model_data": 2202044
+      },
+      "model": "slimefunwarfare:explosives/nitrogen_triiodide"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202045
       },
       "model": "item/purple_dye"
     }

@@ -54,7 +54,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200619
+        "custom_model_data": 2202046
+      },
+      "model": "slimefunwarfare:explosives/arsenic"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202047
       },
       "model": "item/gunpowder"
     }

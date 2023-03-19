@@ -9,7 +9,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200634
+        "custom_model_data": 2202077
+      },
+      "model": "slimefunwarfare:general/ndfeb_alloy_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202078
       },
       "model": "item/netherite_block"
     }
