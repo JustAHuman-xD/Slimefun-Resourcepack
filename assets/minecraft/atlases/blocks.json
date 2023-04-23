@@ -3290,6 +3290,10 @@
     },
     {
       "type": "single",
+      "resource": "slimefun:slimefun/food/glow_berry_juice"
+    },
+    {
+      "type": "single",
       "resource": "slimefun:slimefun/armor/hazmat_suit/chestplate"
     },
     {
