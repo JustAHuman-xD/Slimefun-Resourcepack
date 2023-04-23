@@ -10,19 +10,19 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/pumpkin_muffin"
-    },
-    {
-      "type": "single",
       "resource": "infinityexpansion:materials/titanium"
     },
     {
       "type": "single",
-      "resource": "exotic_garden:drinks/raspberry_iced_tea"
+      "resource": "exotic_garden:foods/pumpkin_muffin"
     },
     {
       "type": "single",
       "resource": "exotic_garden:plants/diamond_essence"
+    },
+    {
+      "type": "single",
+      "resource": "exotic_garden:drinks/raspberry_iced_tea"
     },
     {
       "type": "single",
@@ -70,15 +70,15 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/garlic_cheese_bread"
-    },
-    {
-      "type": "single",
       "resource": "slimefun:slimefun/basic_machines/composter"
     },
     {
       "type": "single",
       "resource": "slimefun:slimefun/magical_armor/soulbound_armor/boots"
+    },
+    {
+      "type": "single",
+      "resource": "exotic_garden:foods/garlic_cheese_bread"
     },
     {
       "type": "single",
@@ -110,19 +110,19 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/blueberry_pancakes"
-    },
-    {
-      "type": "single",
       "resource": "slimefun:slimefun/magical_gadgets/elytra/soulbound_elytra"
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/fish_sandwich"
+      "resource": "exotic_garden:foods/blueberry_pancakes"
     },
     {
       "type": "single",
       "resource": "slimefun:slimefun/miscellaneous/organic_food/seeds"
+    },
+    {
+      "type": "single",
+      "resource": "exotic_garden:foods/fish_sandwich"
     },
     {
       "type": "single",
@@ -138,11 +138,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/chocolate_chip_muffin"
+      "resource": "slimefun:slimefun/energy/energized_capacitor"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/energy/energized_capacitor"
+      "resource": "exotic_garden:foods/chocolate_chip_muffin"
     },
     {
       "type": "single",
@@ -162,7 +162,7 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/chocolate_cake"
+      "resource": "slimefun:slimefun/technical_gadgets/night_vision_goggles"
     },
     {
       "type": "single",
@@ -170,7 +170,7 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/technical_gadgets/night_vision_goggles"
+      "resource": "exotic_garden:foods/chocolate_cake"
     },
     {
       "type": "single",
@@ -186,11 +186,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/sweetened_pear_cheesecake"
+      "resource": "exotic_garden:foods/chicken_sandwich"
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/chicken_sandwich"
+      "resource": "exotic_garden:foods/sweetened_pear_cheesecake"
     },
     {
       "type": "single",
@@ -198,19 +198,19 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:fruits/plum"
-    },
-    {
-      "type": "single",
       "resource": "slimefun:slimefun/food/pork_jerky"
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/bacon_cheeseburger"
+      "resource": "exotic_garden:fruits/plum"
     },
     {
       "type": "single",
       "resource": "slimefun:slimefun/magical_items/synthetic_shulker"
+    },
+    {
+      "type": "single",
+      "resource": "exotic_garden:foods/bacon_cheeseburger"
     },
     {
       "type": "single",
@@ -254,11 +254,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/egg_salad"
+      "resource": "slimefun:slimefun/miscellaneous/organic_fertilizer/potatoes"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/miscellaneous/organic_fertilizer/potatoes"
+      "resource": "exotic_garden:foods/egg_salad"
     },
     {
       "type": "single",
@@ -266,11 +266,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/lemon_pie"
+      "resource": "slimefun:slimefun/talisman2/wise"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/talisman2/wise"
+      "resource": "exotic_garden:foods/lemon_pie"
     },
     {
       "type": "single",
@@ -322,11 +322,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:misc/cornmeal"
+      "resource": "supreme:components/supreme_rustless_machine"
     },
     {
       "type": "single",
-      "resource": "supreme:components/supreme_rustless_machine"
+      "resource": "exotic_garden:misc/cornmeal"
     },
     {
       "type": "single",
@@ -406,11 +406,11 @@
     },
     {
       "type": "single",
-      "resource": "infinityexpansion:materials/materials2/magnesium_singularity"
+      "resource": "slimefun:slimefun/cargo/enhanced_auto_crafter"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/cargo/enhanced_auto_crafter"
+      "resource": "infinityexpansion:materials/materials2/magnesium_singularity"
     },
     {
       "type": "single",
@@ -438,11 +438,11 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/energy/coal_generator"
+      "resource": "slimefun:slimefun/technical_gadgets/carbonado_jetpack"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/technical_gadgets/carbonado_jetpack"
+      "resource": "slimefun:slimefun/energy/coal_generator"
     },
     {
       "type": "single",
@@ -490,11 +490,11 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/magical_items/broken_spawner"
+      "resource": "slimefun:slimefun/basic_machines/crucible"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/basic_machines/crucible"
+      "resource": "slimefun:slimefun/magical_items/broken_spawner"
     },
     {
       "type": "single",
@@ -546,7 +546,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:plants/plant_lead"
+      "resource": "slimefun:slimefun/food/mutton_jerky"
+    },
+    {
+      "type": "single",
+      "resource": "slimefun:slimefun/gps/gps_transmitter_energized"
     },
     {
       "type": "single",
@@ -554,11 +558,7 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/food/mutton_jerky"
-    },
-    {
-      "type": "single",
-      "resource": "slimefun:slimefun/gps/gps_transmitter_energized"
+      "resource": "exotic_garden:plants/plant_lead"
     },
     {
       "type": "single",
@@ -582,11 +582,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:drinks/plum_juice"
+      "resource": "extra_gear:armor/copper/copper_helmet"
     },
     {
       "type": "single",
-      "resource": "extra_gear:armor/copper/copper_helmet"
+      "resource": "exotic_garden:drinks/plum_juice"
     },
     {
       "type": "single",
@@ -594,11 +594,11 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/food/pumpkin_juice"
+      "resource": "slimefun:slimefun/resources/gold_ingots/gold_ingot_4"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/resources/gold_ingots/gold_ingot_4"
+      "resource": "slimefun:slimefun/food/pumpkin_juice"
     },
     {
       "type": "single",
@@ -618,11 +618,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:misc/ice_cube"
+      "resource": "slimefun:slimefun/talisman1/caveman"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/talisman1/caveman"
+      "resource": "exotic_garden:misc/ice_cube"
     },
     {
       "type": "single",
@@ -674,15 +674,15 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:drinks/pomegranate_juice"
-    },
-    {
-      "type": "single",
       "resource": "slimefun:slimefun/energy/magnesium_generator"
     },
     {
       "type": "single",
       "resource": "slimefun:slimefun/talisman2/magican"
+    },
+    {
+      "type": "single",
+      "resource": "exotic_garden:drinks/pomegranate_juice"
     },
     {
       "type": "single",
@@ -758,11 +758,11 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/tools/hercules_pickaxe"
+      "resource": "slimefun:slimefun/basic_machines/ore_crusher"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/basic_machines/ore_crusher"
+      "resource": "slimefun:slimefun/tools/hercules_pickaxe"
     },
     {
       "type": "single",
@@ -774,11 +774,11 @@
     },
     {
       "type": "single",
-      "resource": "slimefunwarfare:explosives/thioacetone"
+      "resource": "slimefunwarfare:general/radio"
     },
     {
       "type": "single",
-      "resource": "slimefunwarfare:general/radio"
+      "resource": "slimefunwarfare:explosives/thioacetone"
     },
     {
       "type": "single",
@@ -806,11 +806,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:misc/crook"
+      "resource": "slimefun:slimefun/armor/gilded_iron_armor/leggings"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/armor/gilded_iron_armor/leggings"
+      "resource": "exotic_garden:misc/crook"
     },
     {
       "type": "single",
@@ -822,15 +822,15 @@
     },
     {
       "type": "single",
+      "resource": "supreme:armor/chestplate/supreme_supreme_chestplate"
+    },
+    {
+      "type": "single",
       "resource": "exotic_garden:foods/raspberry_pie"
     },
     {
       "type": "single",
       "resource": "fluffymachines:diamond_paxel"
-    },
-    {
-      "type": "single",
-      "resource": "supreme:armor/chestplate/supreme_supreme_chestplate"
     },
     {
       "type": "single",
@@ -842,11 +842,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/chicken_curry"
+      "resource": "extra_gear:armor/silver/silver_helmet"
     },
     {
       "type": "single",
-      "resource": "extra_gear:armor/silver/silver_helmet"
+      "resource": "exotic_garden:foods/chicken_curry"
     },
     {
       "type": "single",
@@ -870,11 +870,11 @@
     },
     {
       "type": "single",
-      "resource": "infinityexpansion:materials/materials2/double_compressed_cobblestone"
+      "resource": "slimefun:slimefun/energy/electric_ore_grinder"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/energy/electric_ore_grinder"
+      "resource": "infinityexpansion:materials/materials2/double_compressed_cobblestone"
     },
     {
       "type": "single",
@@ -958,11 +958,11 @@
     },
     {
       "type": "single",
-      "resource": "infinityexpansion:materials/materials2/emerald_singularity"
+      "resource": "slimefun:slimefun/technical_gadgets/hologram_projector"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/technical_gadgets/hologram_projector"
+      "resource": "infinityexpansion:materials/materials2/emerald_singularity"
     },
     {
       "type": "single",
@@ -974,15 +974,15 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/cherry_cheesecake"
-    },
-    {
-      "type": "single",
       "resource": "supreme:components/supreme_attribute_magic"
     },
     {
       "type": "single",
       "resource": "slimefun:slimefun/talisman1/farmer"
+    },
+    {
+      "type": "single",
+      "resource": "exotic_garden:foods/cherry_cheesecake"
     },
     {
       "type": "single",
@@ -1062,11 +1062,11 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/food/chicken_jerky"
+      "resource": "slimefun:slimefun/resources/ingots/damascus_steel_ingot"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/resources/ingots/damascus_steel_ingot"
+      "resource": "slimefun:slimefun/food/chicken_jerky"
     },
     {
       "type": "single",
@@ -1098,15 +1098,15 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/magical_items/ender_lump2"
-    },
-    {
-      "type": "single",
       "resource": "slimefun:slimefun/basic_machines/juicer"
     },
     {
       "type": "single",
       "resource": "slimefun:slimefun/resources/ingots/corinthian_bronze_ingot"
+    },
+    {
+      "type": "single",
+      "resource": "slimefun:slimefun/magical_items/ender_lump2"
     },
     {
       "type": "single",
@@ -1134,11 +1134,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/strawberry_jelly_sandwich"
+      "resource": "slimefun:slimefun/gps/gps_transmitter_carbonado"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/gps/gps_transmitter_carbonado"
+      "resource": "exotic_garden:foods/strawberry_jelly_sandwich"
     },
     {
       "type": "single",
@@ -1150,11 +1150,11 @@
     },
     {
       "type": "single",
-      "resource": "slimefunwarfare:explosives/osmium_dust_grenade"
+      "resource": "extra_gear:armor/cobalt/cobalt_chestplate"
     },
     {
       "type": "single",
-      "resource": "extra_gear:armor/cobalt/cobalt_chestplate"
+      "resource": "slimefunwarfare:explosives/osmium_dust_grenade"
     },
     {
       "type": "single",
@@ -1182,11 +1182,11 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/gps/elevator_plate"
+      "resource": "slimefun:slimefun/resources/gold_ingots/gold_ingot_14"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/resources/gold_ingots/gold_ingot_14"
+      "resource": "slimefun:slimefun/gps/elevator_plate"
     },
     {
       "type": "single",
@@ -1274,15 +1274,11 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/energy/electric_gold_pan3"
-    },
-    {
-      "type": "single",
       "resource": "slimefun:slimefun/basic_machines/advanced_industrial_miner"
     },
     {
       "type": "single",
-      "resource": "exotic_garden:fruits/corn"
+      "resource": "slimefun:slimefun/energy/electric_gold_pan3"
     },
     {
       "type": "single",
@@ -1291,6 +1287,10 @@
     {
       "type": "single",
       "resource": "slimefun:slimefun/energy/electric_gold_pan2"
+    },
+    {
+      "type": "single",
+      "resource": "exotic_garden:fruits/corn"
     },
     {
       "type": "single",
@@ -1318,7 +1318,7 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/grilled_sandwich"
+      "resource": "slimefun:slimefun/food/monster_jerky"
     },
     {
       "type": "single",
@@ -1326,7 +1326,7 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/food/monster_jerky"
+      "resource": "exotic_garden:foods/grilled_sandwich"
     },
     {
       "type": "single",
@@ -1406,11 +1406,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:fruits/plum_sapling"
+      "resource": "slimefun:slimefun/resources/dusts/copper_dust"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/resources/dusts/copper_dust"
+      "resource": "exotic_garden:fruits/plum_sapling"
     },
     {
       "type": "single",
@@ -1426,11 +1426,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:fruits/tea_leaf"
+      "resource": "slimefun:slimefun/androids/android/fisherman"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/androids/android/fisherman"
+      "resource": "exotic_garden:fruits/tea_leaf"
     },
     {
       "type": "single",
@@ -1474,7 +1474,7 @@
     },
     {
       "type": "single",
-      "resource": "infinityexpansion:tools/sky_piercer/sky_piercer_pulling2"
+      "resource": "slimefun:slimefun/cargo/trash"
     },
     {
       "type": "single",
@@ -1482,7 +1482,7 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/cargo/trash"
+      "resource": "infinityexpansion:tools/sky_piercer/sky_piercer_pulling2"
     },
     {
       "type": "single",
@@ -1546,15 +1546,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/taco"
-    },
-    {
-      "type": "single",
       "resource": "slimefun:slimefun/gui/search"
     },
     {
       "type": "single",
-      "resource": "litexpansion:materials/iridium_plate"
+      "resource": "exotic_garden:foods/taco"
     },
     {
       "type": "single",
@@ -1562,15 +1558,19 @@
     },
     {
       "type": "single",
+      "resource": "litexpansion:materials/iridium_plate"
+    },
+    {
+      "type": "single",
       "resource": "litexpansion:materials/raw_carbon_mesh"
     },
     {
       "type": "single",
-      "resource": "exotic_garden:drinks/raspberry_juice"
+      "resource": "infinityexpansion:materials/materials2/silver_singularity"
     },
     {
       "type": "single",
-      "resource": "infinityexpansion:materials/materials2/silver_singularity"
+      "resource": "exotic_garden:drinks/raspberry_juice"
     },
     {
       "type": "single",
@@ -1582,11 +1582,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/lime_pie"
+      "resource": "slimefun:slimefun/technical_components/android_memory_core"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/technical_components/android_memory_core"
+      "resource": "exotic_garden:foods/lime_pie"
     },
     {
       "type": "single",
@@ -1634,11 +1634,11 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/basic_machines/enhanced_furnace_9"
+      "resource": "slimefun:slimefun/basic_machines/output_chest"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/basic_machines/output_chest"
+      "resource": "slimefun:slimefun/basic_machines/enhanced_furnace_9"
     },
     {
       "type": "single",
@@ -1662,11 +1662,11 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/magical_items/ender_lump"
+      "resource": "slimefun:slimefun/basic_machines/enhanced_furnace_6"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/basic_machines/enhanced_furnace_6"
+      "resource": "slimefun:slimefun/magical_items/ender_lump"
     },
     {
       "type": "single",
@@ -1678,11 +1678,7 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:fruits/grape_bush"
-    },
-    {
-      "type": "single",
-      "resource": "exotic_garden:foods/fries"
+      "resource": "slimefun:slimefun/miscellaneous/organic_fertilizer/seagrass"
     },
     {
       "type": "single",
@@ -1690,7 +1686,11 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/miscellaneous/organic_fertilizer/seagrass"
+      "resource": "exotic_garden:fruits/grape_bush"
+    },
+    {
+      "type": "single",
+      "resource": "exotic_garden:foods/fries"
     },
     {
       "type": "single",
@@ -1770,7 +1770,7 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:drinks/dragon_fruit_juice"
+      "resource": "extra_gear:swords/billon_sword"
     },
     {
       "type": "single",
@@ -1778,7 +1778,7 @@
     },
     {
       "type": "single",
-      "resource": "extra_gear:swords/billon_sword"
+      "resource": "exotic_garden:drinks/dragon_fruit_juice"
     },
     {
       "type": "single",
@@ -1810,15 +1810,15 @@
     },
     {
       "type": "single",
-      "resource": "infinityexpansion:materials/materials2/infinity_singularity"
-    },
-    {
-      "type": "single",
       "resource": "slimefun:slimefun/items/backpack_large"
     },
     {
       "type": "single",
       "resource": "slimefun:slimefun/resources/valuables/enriched_nether_ice"
+    },
+    {
+      "type": "single",
+      "resource": "infinityexpansion:materials/materials2/infinity_singularity"
     },
     {
       "type": "single",
@@ -1862,15 +1862,15 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:fruits/lime_sapling"
-    },
-    {
-      "type": "single",
       "resource": "supreme:components/supreme_petrifier_machine"
     },
     {
       "type": "single",
       "resource": "slimefun:slimefun/basic_machines/enchanced_crafting_table"
+    },
+    {
+      "type": "single",
+      "resource": "exotic_garden:fruits/lime_sapling"
     },
     {
       "type": "single",
@@ -1898,7 +1898,7 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/leafy_fish_sandwich"
+      "resource": "slimefun:slimefun/technical_components/electric_motor"
     },
     {
       "type": "single",
@@ -1906,7 +1906,7 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/technical_components/electric_motor"
+      "resource": "exotic_garden:foods/leafy_fish_sandwich"
     },
     {
       "type": "single",
@@ -2006,11 +2006,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/hamburger"
+      "resource": "extra_gear:armor/steel/steel_helmet"
     },
     {
       "type": "single",
-      "resource": "extra_gear:armor/steel/steel_helmet"
+      "resource": "exotic_garden:foods/hamburger"
     },
     {
       "type": "single",
@@ -2062,11 +2062,11 @@
     },
     {
       "type": "single",
-      "resource": "slimefunwarfare:explosives/nitrogen_triiodide"
+      "resource": "slimefunwarfare:resources/lanthanum_ingot"
     },
     {
       "type": "single",
-      "resource": "slimefunwarfare:resources/lanthanum_ingot"
+      "resource": "slimefunwarfare:explosives/nitrogen_triiodide"
     },
     {
       "type": "single",
@@ -2126,11 +2126,11 @@
     },
     {
       "type": "single",
-      "resource": "litexpansion:materials/uu_matter"
+      "resource": "extra_gear:armor/magnesium/magnesium_boots"
     },
     {
       "type": "single",
-      "resource": "extra_gear:armor/magnesium/magnesium_boots"
+      "resource": "litexpansion:materials/uu_matter"
     },
     {
       "type": "single",
@@ -2146,11 +2146,11 @@
     },
     {
       "type": "single",
-      "resource": "litexpansion:materials/copper_cable"
+      "resource": "slimefun:slimefun/resources/ingots/bronze_ingot"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/resources/ingots/bronze_ingot"
+      "resource": "litexpansion:materials/copper_cable"
     },
     {
       "type": "single",
@@ -2206,11 +2206,11 @@
     },
     {
       "type": "single",
-      "resource": "infinityexpansion:materials/metal_singularity"
+      "resource": "slimefun:slimefun/energy/automated_crafting_chamber"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/energy/automated_crafting_chamber"
+      "resource": "infinityexpansion:materials/metal_singularity"
     },
     {
       "type": "single",
@@ -2242,11 +2242,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/tiramisu"
+      "resource": "supreme:armor/leggings/supreme_supreme_leggings"
     },
     {
       "type": "single",
-      "resource": "supreme:armor/leggings/supreme_supreme_leggings"
+      "resource": "exotic_garden:foods/tiramisu"
     },
     {
       "type": "single",
@@ -2262,11 +2262,11 @@
     },
     {
       "type": "single",
-      "resource": "supreme:components/supreme_core_of_life"
+      "resource": "extra_gear:armor/cobalt/cobalt_helmet"
     },
     {
       "type": "single",
-      "resource": "extra_gear:armor/cobalt/cobalt_helmet"
+      "resource": "supreme:components/supreme_core_of_life"
     },
     {
       "type": "single",
@@ -2330,11 +2330,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/chickenburger"
+      "resource": "slimefun:slimefun/magical_gadgets/water_staff"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/magical_gadgets/water_staff"
+      "resource": "exotic_garden:foods/chickenburger"
     },
     {
       "type": "single",
@@ -2374,11 +2374,11 @@
     },
     {
       "type": "single",
-      "resource": "infinityexpansion:armor/infinity_boots"
+      "resource": "slimefun:slimefun/basic_machines/automated_panning_machine"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/basic_machines/automated_panning_machine"
+      "resource": "infinityexpansion:armor/infinity_boots"
     },
     {
       "type": "single",
@@ -2414,11 +2414,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/apple_pear_cake"
+      "resource": "slimefun:slimefun/talisman2/knight"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/talisman2/knight"
+      "resource": "exotic_garden:foods/apple_pear_cake"
     },
     {
       "type": "single",
@@ -2434,11 +2434,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/biscuit"
+      "resource": "exotic_garden:plants/quartz_plant"
     },
     {
       "type": "single",
-      "resource": "exotic_garden:plants/quartz_plant"
+      "resource": "exotic_garden:foods/biscuit"
     },
     {
       "type": "single",
@@ -2518,15 +2518,19 @@
     },
     {
       "type": "single",
-      "resource": "slimefunwarfare:explosives/grenade"
-    },
-    {
-      "type": "single",
       "resource": "slimefunwarfare:resources/osmium_dust"
     },
     {
       "type": "single",
+      "resource": "slimefunwarfare:explosives/grenade"
+    },
+    {
+      "type": "single",
       "resource": "infinityexpansion:materials/mythril"
+    },
+    {
+      "type": "single",
+      "resource": "slimefun:slimefun/technical_gadgets/steel_multi_tool"
     },
     {
       "type": "single",
@@ -2535,10 +2539,6 @@
     {
       "type": "single",
       "resource": "exotic_garden:foods/chicken_cheeseburger"
-    },
-    {
-      "type": "single",
-      "resource": "slimefun:slimefun/technical_gadgets/steel_multi_tool"
     },
     {
       "type": "single",
@@ -2582,11 +2582,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/hot_dog_bbq_double_bacon_wrapped_in_a_tortilla_with_cheese"
+      "resource": "exotic_garden:plants/slime_essence"
     },
     {
       "type": "single",
-      "resource": "exotic_garden:plants/slime_essence"
+      "resource": "exotic_garden:foods/hot_dog_bbq_double_bacon_wrapped_in_a_tortilla_with_cheese"
     },
     {
       "type": "single",
@@ -2606,11 +2606,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:fruits/coconut_sapling"
+      "resource": "extra_gear:swords/aluminum_sword"
     },
     {
       "type": "single",
-      "resource": "extra_gear:swords/aluminum_sword"
+      "resource": "exotic_garden:fruits/coconut_sapling"
     },
     {
       "type": "single",
@@ -2638,19 +2638,19 @@
     },
     {
       "type": "single",
-      "resource": "infinityexpansion:materials/ender_essence"
-    },
-    {
-      "type": "single",
       "resource": "slimefun:slimefun/cargo/crafting_motor"
     },
     {
       "type": "single",
-      "resource": "exotic_garden:fruits/peach_sapling"
+      "resource": "infinityexpansion:materials/ender_essence"
     },
     {
       "type": "single",
       "resource": "slimy_tree_taps:materials/sticky_resin"
+    },
+    {
+      "type": "single",
+      "resource": "exotic_garden:fruits/peach_sapling"
     },
     {
       "type": "single",
@@ -2670,11 +2670,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/carrot_cake"
+      "resource": "extra_gear:armor/zinc/zinc_helmet"
     },
     {
       "type": "single",
-      "resource": "extra_gear:armor/zinc/zinc_helmet"
+      "resource": "exotic_garden:foods/carrot_cake"
     },
     {
       "type": "single",
@@ -2694,11 +2694,11 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/gui/next_off"
+      "resource": "slimefun:slimefun/talisman2/miner"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/talisman2/miner"
+      "resource": "slimefun:slimefun/gui/next_off"
     },
     {
       "type": "single",
@@ -2714,11 +2714,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:plants/obsidian_essence"
+      "resource": "slimefun:slimefun/armor/gilded_iron_armor/chestplate"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/armor/gilded_iron_armor/chestplate"
+      "resource": "exotic_garden:plants/obsidian_essence"
     },
     {
       "type": "single",
@@ -2730,11 +2730,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:fruits/apple"
+      "resource": "slimefun:slimefun/tools/soulbound_pickaxe"
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/cheesecake"
+      "resource": "exotic_garden:fruits/apple"
     },
     {
       "type": "single",
@@ -2742,7 +2742,7 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/tools/soulbound_pickaxe"
+      "resource": "exotic_garden:foods/cheesecake"
     },
     {
       "type": "single",
@@ -2758,11 +2758,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:drinks/cranberry_juice"
+      "resource": "slimefun:slimefun/magical_items/rune_water"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/magical_items/rune_water"
+      "resource": "exotic_garden:drinks/cranberry_juice"
     },
     {
       "type": "single",
@@ -2826,11 +2826,11 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/gps/gps_emergency_transmitter"
+      "resource": "slimefun:slimefun/resources/dusts/zinc_dust"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/resources/dusts/zinc_dust"
+      "resource": "slimefun:slimefun/gps/gps_emergency_transmitter"
     },
     {
       "type": "single",
@@ -2850,19 +2850,19 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/gps/gps_geo_scanner"
-    },
-    {
-      "type": "single",
       "resource": "slimefun:slimefun/gps/gps_transmitter_advanced"
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/bacon"
+      "resource": "slimefun:slimefun/gps/gps_geo_scanner"
     },
     {
       "type": "single",
       "resource": "slimefun:slimefun/items/splint"
+    },
+    {
+      "type": "single",
+      "resource": "exotic_garden:foods/bacon"
     },
     {
       "type": "single",
@@ -2878,11 +2878,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/waffles"
+      "resource": "slimefun:slimefun/technical_components/powered_crystal"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/technical_components/powered_crystal"
+      "resource": "exotic_garden:foods/waffles"
     },
     {
       "type": "single",
@@ -2894,19 +2894,19 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/tools/climbing_pick"
-    },
-    {
-      "type": "single",
       "resource": "slimefun:slimefun/energy/food_fabricator_2"
     },
     {
       "type": "single",
-      "resource": "exotic_garden:fruits/tomato_plant"
+      "resource": "slimefun:slimefun/tools/climbing_pick"
     },
     {
       "type": "single",
       "resource": "slimefun:slimefun/gps/geo_miner"
+    },
+    {
+      "type": "single",
+      "resource": "exotic_garden:fruits/tomato_plant"
     },
     {
       "type": "single",
@@ -2938,11 +2938,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:fruits/garlic_plant"
+      "resource": "slimefun:slimefun/magical_gadgets/knowledge_flask"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/magical_gadgets/knowledge_flask"
+      "resource": "exotic_garden:fruits/garlic_plant"
     },
     {
       "type": "single",
@@ -2974,11 +2974,11 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/miscellaneous/stone_chunk"
+      "resource": "slimefun:slimefun/miscellaneous/reinforced_plate"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/miscellaneous/reinforced_plate"
+      "resource": "slimefun:slimefun/miscellaneous/stone_chunk"
     },
     {
       "type": "single",
@@ -3006,11 +3006,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/hot_dog_bbq_bacon_wrapped"
+      "resource": "slimefun:slimefun/talisman1/knight"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/talisman1/knight"
+      "resource": "exotic_garden:foods/hot_dog_bbq_bacon_wrapped"
     },
     {
       "type": "single",
@@ -3050,19 +3050,19 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:drinks/lemon_juice"
-    },
-    {
-      "type": "single",
       "resource": "slimefun:slimefun/basic_machines/pressure_chamber"
     },
     {
       "type": "single",
-      "resource": "exotic_garden:fruits/peach"
+      "resource": "exotic_garden:drinks/lemon_juice"
     },
     {
       "type": "single",
       "resource": "slimefun:slimefun/magical_gadgets/infused_magnet"
+    },
+    {
+      "type": "single",
+      "resource": "exotic_garden:fruits/peach"
     },
     {
       "type": "single",
@@ -3074,11 +3074,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/pancakes"
+      "resource": "slimefun:slimefun/magical_gadgets/elemental_staff"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/magical_gadgets/elemental_staff"
+      "resource": "exotic_garden:foods/pancakes"
     },
     {
       "type": "single",
@@ -3122,11 +3122,11 @@
     },
     {
       "type": "single",
-      "resource": "foxymachines:weapons/acri_arcum/acri_arcum_pulling_1"
+      "resource": "slimefun:slimefun/magical_gadgets/elytra_scale"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/magical_gadgets/elytra_scale"
+      "resource": "foxymachines:weapons/acri_arcum/acri_arcum_pulling_1"
     },
     {
       "type": "single",
@@ -3222,19 +3222,15 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:fruits/garlic"
-    },
-    {
-      "type": "single",
       "resource": "slimefun:slimefun/technical_gadgets/solder_multi_tool"
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/chicken_pot_pie"
+      "resource": "exotic_garden:fruits/garlic"
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/blueberry_pie"
+      "resource": "exotic_garden:foods/chicken_pot_pie"
     },
     {
       "type": "single",
@@ -3246,15 +3242,19 @@
     },
     {
       "type": "single",
+      "resource": "exotic_garden:foods/blueberry_pie"
+    },
+    {
+      "type": "single",
       "resource": "slimefun:slimefun/energy/carbonado_edged_energy_capacitor"
     },
     {
       "type": "single",
-      "resource": "exotic_garden:drinks/lime_juice"
+      "resource": "slimefun:slimefun/miscellaneous/organic_fertilizer/apple"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/miscellaneous/organic_fertilizer/apple"
+      "resource": "exotic_garden:drinks/lime_juice"
     },
     {
       "type": "single",
@@ -3278,11 +3278,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:plants/slime_plant"
+      "resource": "extra_gear:swords/solder_sword"
     },
     {
       "type": "single",
-      "resource": "extra_gear:swords/solder_sword"
+      "resource": "exotic_garden:plants/slime_plant"
     },
     {
       "type": "single",
@@ -3306,11 +3306,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:drinks/cherry_juice"
+      "resource": "slimefun:slimefun/resources/ingots/redstone_alloy_ingot"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/resources/ingots/redstone_alloy_ingot"
+      "resource": "exotic_garden:drinks/cherry_juice"
     },
     {
       "type": "single",
@@ -3322,11 +3322,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:drinks/strawberry_iced_tea"
+      "resource": "extra_gear:swords/steel_sword"
     },
     {
       "type": "single",
-      "resource": "extra_gear:swords/steel_sword"
+      "resource": "exotic_garden:drinks/strawberry_iced_tea"
     },
     {
       "type": "single",
@@ -3370,11 +3370,11 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/androids/android3/normal"
+      "resource": "slimefun:slimefun/resources/ingots/aluminum_brass_ingot"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/resources/ingots/aluminum_brass_ingot"
+      "resource": "slimefun:slimefun/androids/android3/normal"
     },
     {
       "type": "single",
@@ -3394,11 +3394,11 @@
     },
     {
       "type": "single",
-      "resource": "supreme:components/supreme_crystallizer_machine"
+      "resource": "supreme:components/supreme_supreme_nugget"
     },
     {
       "type": "single",
-      "resource": "supreme:components/supreme_supreme_nugget"
+      "resource": "supreme:components/supreme_crystallizer_machine"
     },
     {
       "type": "single",
@@ -3438,11 +3438,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/blt_sandwich"
+      "resource": "slimefun:slimefun/items/restored_backpack"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/items/restored_backpack"
+      "resource": "exotic_garden:foods/blt_sandwich"
     },
     {
       "type": "single",
@@ -3662,15 +3662,15 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:foods/peach_pie"
-    },
-    {
-      "type": "single",
       "resource": "slimefun:slimefun/miscellaneous/gold_block_carat_24"
     },
     {
       "type": "single",
       "resource": "slimefun:slimefun/items/cooler"
+    },
+    {
+      "type": "single",
+      "resource": "exotic_garden:foods/peach_pie"
     },
     {
       "type": "single",
@@ -3750,15 +3750,15 @@
     },
     {
       "type": "single",
-      "resource": "infinityexpansion:tools/sky_piercer/sky_piercer"
-    },
-    {
-      "type": "single",
       "resource": "extra_gear:swords/reinforced_sword"
     },
     {
       "type": "single",
       "resource": "slimefun:slimefun/magical_items/rune_earth"
+    },
+    {
+      "type": "single",
+      "resource": "infinityexpansion:tools/sky_piercer/sky_piercer"
     },
     {
       "type": "single",
@@ -3790,11 +3790,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:plants/iron_plant"
+      "resource": "slimefun:slimefun/talisman2/traveller"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/talisman2/traveller"
+      "resource": "exotic_garden:plants/iron_plant"
     },
     {
       "type": "single",
@@ -3830,11 +3830,11 @@
     },
     {
       "type": "single",
-      "resource": "litexpansion:materials/iridium"
+      "resource": "slimefun:slimefun/magical_gadgets/magical_zombie_pills"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/magical_gadgets/magical_zombie_pills"
+      "resource": "litexpansion:materials/iridium"
     },
     {
       "type": "single",
@@ -3894,11 +3894,11 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:drinks/sweetened_tea"
+      "resource": "slimefun:slimefun/gui/menu"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/gui/menu"
+      "resource": "exotic_garden:drinks/sweetened_tea"
     },
     {
       "type": "single",
@@ -3938,7 +3938,7 @@
     },
     {
       "type": "single",
-      "resource": "exotic_garden:fruits/sweet_potato_plant"
+      "resource": "slimefun:slimefun/resources/ingots/silver_ingot"
     },
     {
       "type": "single",
@@ -3950,7 +3950,7 @@
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/resources/ingots/silver_ingot"
+      "resource": "exotic_garden:fruits/sweet_potato_plant"
     },
     {
       "type": "single",
@@ -3982,11 +3982,11 @@
     },
     {
       "type": "single",
-      "resource": "slimy_tree_taps:treetap/diamond_tree_tap"
+      "resource": "slimefun:slimefun/technical_components/wither_proof_obsidian"
     },
     {
       "type": "single",
-      "resource": "slimefun:slimefun/technical_components/wither_proof_obsidian"
+      "resource": "slimy_tree_taps:treetap/diamond_tree_tap"
     }
   ]
 }
