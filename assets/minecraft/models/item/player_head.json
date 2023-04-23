@@ -195,12 +195,6 @@
     },
     {
       "predicate": {
-        "custom_model_data": 2200262
-      },
-      "model": "slimefun:slimefun/technical_gadgets/duralumin_jetboots"
-    },
-    {
-      "predicate": {
         "custom_model_data": 2200305
       },
       "model": "slimefun:slimefun/technical_components/electromagnet"

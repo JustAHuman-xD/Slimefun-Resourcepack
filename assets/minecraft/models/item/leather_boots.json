@@ -49,6 +49,48 @@
     },
     {
       "predicate": {
+        "custom_model_data": 2200262
+      },
+      "model": "slimefun:slimefun/technical_gadgets/duralumin_jetboots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2200263
+      },
+      "model": "slimefun:slimefun/technical_gadgets/solder_jetboots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2200264
+      },
+      "model": "slimefun:slimefun/technical_gadgets/billon_jetboots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2200265
+      },
+      "model": "slimefun:slimefun/technical_gadgets/steel_jetboots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2200266
+      },
+      "model": "slimefun:slimefun/technical_gadgets/damascus_steel_jetboots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2200267
+      },
+      "model": "slimefun:slimefun/technical_gadgets/reinforced_alloy_jetboots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2200268
+      },
+      "model": "slimefun:slimefun/technical_gadgets/carbonado_jetboots"
+    },
+    {
+      "predicate": {
         "custom_model_data": 2201209
       },
       "model": "extra_gear:armor/copper/copper_boots"
